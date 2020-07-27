@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://www.seriouseats.com/recipes/images/20100909-pizzology-neapolitan-pizza-primary.jpg",
+      "name": "moda italiana",
+      "price": "45.00",
+      "description": "moda italiana",
+      "id": 4,
+      "available": true
     }
   ]
 }
